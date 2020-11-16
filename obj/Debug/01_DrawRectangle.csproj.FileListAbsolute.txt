@@ -1,0 +1,31 @@
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\7. Windows Forms\07 GDI+\Source\DrawRectangle\DrawRectangle\bin\Debug\DrawRectangle.exe.config
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\7. Windows Forms\07 GDI+\Source\DrawRectangle\DrawRectangle\bin\Debug\DrawRectangle.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\7. Windows Forms\07 GDI+\Source\DrawRectangle\DrawRectangle\bin\Debug\DrawRectangle.pdb
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\7. Windows Forms\07 GDI+\Source\DrawRectangle\DrawRectangle\obj\Debug\DrawRectangle.Form1.resources
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\7. Windows Forms\07 GDI+\Source\DrawRectangle\DrawRectangle\obj\Debug\DrawRectangle.Properties.Resources.resources
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\7. Windows Forms\07 GDI+\Source\DrawRectangle\DrawRectangle\obj\Debug\01_DrawRectangle.csproj.GenerateResource.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\7. Windows Forms\07 GDI+\Source\DrawRectangle\DrawRectangle\obj\Debug\01_DrawRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\7. Windows Forms\07 GDI+\Source\DrawRectangle\DrawRectangle\obj\Debug\DrawRectangle.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\7. Windows Forms\07 GDI+\Source\DrawRectangle\DrawRectangle\obj\Debug\DrawRectangle.pdb
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\7. Windows Forms\07 GDI+\Source\DrawRectangle\DrawRectangle\obj\Debug\DrawRectangle.Form2.resources
+C:\Users\Kolotyuk\Desktop\DrawRectangle\DrawRectangle\bin\Debug\DrawRectangle.exe.config
+C:\Users\Kolotyuk\Desktop\DrawRectangle\DrawRectangle\bin\Debug\DrawRectangle.exe
+C:\Users\Kolotyuk\Desktop\DrawRectangle\DrawRectangle\bin\Debug\DrawRectangle.pdb
+C:\Users\Kolotyuk\Desktop\DrawRectangle\DrawRectangle\obj\Debug\01_DrawRectangle.csprojAssemblyReference.cache
+C:\Users\Kolotyuk\Desktop\DrawRectangle\DrawRectangle\obj\Debug\DrawRectangle.Form1.resources
+C:\Users\Kolotyuk\Desktop\DrawRectangle\DrawRectangle\obj\Debug\DrawRectangle.Form2.resources
+C:\Users\Kolotyuk\Desktop\DrawRectangle\DrawRectangle\obj\Debug\DrawRectangle.Properties.Resources.resources
+C:\Users\Kolotyuk\Desktop\DrawRectangle\DrawRectangle\obj\Debug\01_DrawRectangle.csproj.GenerateResource.cache
+C:\Users\Kolotyuk\Desktop\DrawRectangle\DrawRectangle\obj\Debug\01_DrawRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Kolotyuk\Desktop\DrawRectangle\DrawRectangle\obj\Debug\DrawRectangle.exe
+C:\Users\Kolotyuk\Desktop\DrawRectangle\DrawRectangle\obj\Debug\DrawRectangle.pdb
+C:\Users\Kolotyuk\Desktop\DrawRectangle\bin\Debug\DrawRectangle.exe.config
+C:\Users\Kolotyuk\Desktop\DrawRectangle\bin\Debug\DrawRectangle.exe
+C:\Users\Kolotyuk\Desktop\DrawRectangle\bin\Debug\DrawRectangle.pdb
+C:\Users\Kolotyuk\Desktop\DrawRectangle\obj\Debug\01_DrawRectangle.csprojAssemblyReference.cache
+C:\Users\Kolotyuk\Desktop\DrawRectangle\obj\Debug\DrawRectangle.Form2.resources
+C:\Users\Kolotyuk\Desktop\DrawRectangle\obj\Debug\DrawRectangle.Properties.Resources.resources
+C:\Users\Kolotyuk\Desktop\DrawRectangle\obj\Debug\01_DrawRectangle.csproj.GenerateResource.cache
+C:\Users\Kolotyuk\Desktop\DrawRectangle\obj\Debug\01_DrawRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Kolotyuk\Desktop\DrawRectangle\obj\Debug\DrawRectangle.exe
+C:\Users\Kolotyuk\Desktop\DrawRectangle\obj\Debug\DrawRectangle.pdb

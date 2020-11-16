@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_DrawRectangle", "DrawRectangle\01_DrawRectangle.csproj", "{B43A44B6-4C3B-48E9-93F8-84C3552834C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_DrawRectangle", "02_DrawRectangle\02_DrawRectangle.csproj", "{389F3E60-48B6-486C-B45A-BCEBC63906A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B43A44B6-4C3B-48E9-93F8-84C3552834C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43A44B6-4C3B-48E9-93F8-84C3552834C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43A44B6-4C3B-48E9-93F8-84C3552834C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43A44B6-4C3B-48E9-93F8-84C3552834C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{389F3E60-48B6-486C-B45A-BCEBC63906A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{389F3E60-48B6-486C-B45A-BCEBC63906A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{389F3E60-48B6-486C-B45A-BCEBC63906A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{389F3E60-48B6-486C-B45A-BCEBC63906A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0633C8C4-0515-44A7-BB98-918FCA84578D}
+	EndGlobalSection
+EndGlobal
